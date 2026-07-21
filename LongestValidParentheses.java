@@ -28,8 +28,8 @@ public class LongestValidParentheses {
     }
 
     public static void main(String[] args) {
-        System.out.println(longestValidParentheses("(()"));      // 2
-        System.out.println(longestValidParentheses(")()())"));   // 4
-        System.out.println(longestValidParentheses(""));         // 0
+        System.out.println(longestValidParentheses("(()"));      
+        System.out.println(longestValidParentheses(")()())"));   
+        System.out.println(longestValidParentheses(""));         
     }
 }
